@@ -4,14 +4,17 @@ import { Route } from "react-router-dom";
 //HOC
 import DefaultHOC from "./HOC/Default.HOC";
 
-/*//Components
-import Temp from "./components/temp.jsx"; */
+//Pages
+import HomePage from "./pages/Home.page";
+
+//Components
+import Temp from "./components/temp.jsx"; 
 
 //JSX
 function App() {
   return (
     <>
-      <DefaultHOC path = "/" exact component/>
+      <DefaultHOC path = "/" exact component={HomePage} />
     </>
   ); 
 }
