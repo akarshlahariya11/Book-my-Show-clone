@@ -113,6 +113,21 @@ const Movie = () => {
               castName="Gal Gadot"
               role="Wonder Woman"
             />
+            <Cast
+              image="https://in.bmscdn.com/iedb/artist/images/website/poster/large/ray-fisher-1072729-17-10-2017-12-14-18.jpg"
+              castName="Ray Fisher"
+              role="Cyborg"
+            />
+            <Cast
+              image="https://in.bmscdn.com/iedb/artist/images/website/poster/large/jason-momoa-25617-24-03-2017-17-39-52.jpg"
+              castName="Jason Momoa"
+              role="Aquaman"
+            />
+            <Cast
+              image="https://in.bmscdn.com/iedb/artist/images/website/poster/large/amy-adams-148-24-03-2017-12-40-00.jpg"
+              castName="Amy Adams"
+              role="Lois Lane"
+            />
           </div>
         </div>
         <div className="my-8">
