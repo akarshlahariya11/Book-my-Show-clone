@@ -71,7 +71,7 @@ const Movie = () => {
                   Visa Stream Offer
                 </h3>
                 <p className="text-gray-600">
-                  Get 50% off up to INR 150 on all RuPay cards* on BookMyShow
+                  Get 50% off up to INR 150 on Visa* on BookMyShow
                   Stream.
                 </p>
               </div>
