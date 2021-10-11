@@ -22,7 +22,6 @@ export default function PaymentModal({ isOpen, setIsOpen, price }) {
           theme: {color: "#c4242d" },
         };
         let RazorPay = new window.Razorpay(options);
-        RazorPay.open();
   };
 
   return (
